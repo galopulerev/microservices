@@ -15,26 +15,6 @@ Before running Docker Compose, ensure you have Docker installed on your machine.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-
-
-Certainly! Here's the README.md file in Markdown language:
-
-markdown
-Copy code
-# Running Docker Compose for Microservices
-
-This project uses Docker Compose to run RabbitMQ and a Eureka Server for microservices communication and service discovery.
-
-## Prerequisites
-
-Before running Docker Compose, ensure you have Docker installed on your machine. You can download Docker from [here](https://www.docker.com/get-started).
-
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```bash
    git clone https://github.com/galopulerev/microservices.git
    
 2. Navigate to the project directory:
