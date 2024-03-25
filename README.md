@@ -27,8 +27,6 @@ Before running Docker Compose, ensure you have Docker installed on your machine.
     ```bash
    cd docker
 
-4. Navigate to `docker` folder
-
 ## Running Docker Compose
 To start the containers using Docker Compose:
 ```bash
